@@ -1,0 +1,63 @@
+Name,White move 1,Black move 1,White move 2,Black move 2,white move 3,Black move 3
+Uncommon King's pawn,e5,z,z,z,z,z
+Uncommon Queen's pawn ,d5 ,z,z,z,z,z
+Uncommon opening,z,z,z,z,z,z
+Bird's Opening,f4 ,d5,z,z,z,z
+Reti Opening,Nf3,Nf6,z,z,z,z
+Reti Opening,Nf3 ,d5,z,z,z,z
+King's Indian Attack,Nf3,d5,g3,z,z,z
+Reti Opening,Nf3 ,d5 ,c4,z,z,z
+English,c4 ,e6,z,z,z,z
+"English, Three Knights System",c4,e5 ,Nc3,Nc6,Nf3,z
+"English, Symmetrical Variation",c4 ,c5,Nf3,Nf6,d4 ,cxd4 
+"Modern Defense, Averbakh System",d4 ,d6 ,c4 ,g6 ,Nc3,Bg7 
+Old Benoni Defense,d4,c5,d5,e5,z,z
+Queen's Pawn Game,d4 ,Nf6,z,z,z,z
+Queen's Indian,d4 ,Nf6 ,Nf3,b6,z,z
+King's Indian,d4,Nf6,Nf3,g6,z,z
+Budapest Gambit,d4,Nf6,c4,e8,z,z
+Old Indian,d4,Nf6,c4,d6,z,z
+"Old Indian, Ukrainian Variation",d4,Nf6,c4,d6,Nc3,e5
+Benoni Defense,d4,Nf6,c4,c5,z,z
+Benko Gambit,d4,Nf6,c4,c5,d5,b5
+Dutch,d4,f5,g3,z,z,z
+"Dutch, Staunton Gambit",d4,f5,e4,z,z,z
+Scandinavian,e4,d5,z,z,z,z
+Alekhine's Defense,e4,Nf6,e5,Nd5,d4,z
+Robatsch,e4,g6,z,z,z,z
+Pirc,e4,d6,d4,Nf6,z,z
+Caro-Kann,e4,c6,d6,z,z,z
+Sicilian,e4,c5,z,z,z,z
+"Sicilian, Closed",e4,c5,Nc3,z,z,z
+French Defense,e4,e6,z,z,z,z
+"French, Advance",e4,e6,d4,d5,e5,z
+King's Pawn Game,e4,e5,z,z,z,z
+Center Game,e4,e5,d4,exd4,z,z
+Bishop's Opening,e4,e5,Bc4,Nf6,z,z
+Vienna,e4,e5,Nc3,z,z,z
+Vienna Gambit,e4,e5,Nc3,Nf6,f4,z
+King's Gambit Declined,e4,e5,f4,z,z,z
+King's Gambit Accepted,e4,e5,f4,exf4,Nf3,z
+King's Knight Opening,e4,e5,Nf3,z,z,z
+Philidor Defense,e4,e5,Nf3,d6,z,z
+Petrov Defense,e4,e5,Nf3,Nf6,z,z
+King's Pawn Game,e4,e5,Nf3,Nc6,z,z
+Scotch Game,e4,e5,Nf3,Nc6,d4,exd4
+Three Knights,e4,e5,Nf3,Nc6,Nc3,z
+Four Knights,e4,e5,Nf3,Nc6,Nf6,z
+Giuoco Piano,e4,e5,Nf3,Nc6,Bc4,Bc5
+Two Knights Defense,e4,e5,Nf3,Nc6,Bc4,Nf6
+Ruy Lopez,e4,e5,Nf3,Nc6,Bb5,z
+Queen's Pawn Game,d4,d5,z,z,z,z
+Richter-Veresov Attack,d4,d5,Nc3,Nf6,Bg5,z
+Queen's Pawn Game,d4,d5,Nf3,z,z,z
+Queen's Gambit Declined ,d4,d5,c4,c6,z,z
+Queen's Gambit Accepted,d4,d5,c4,dxc4,z,z
+Neo-Grunfeld Defense,d4,Nf6,c4,g6,f3,d5
+Neo-Grunfeld,d4,Nf6,c4,g6,g3,d5
+Grunfeld,d4,Nf6,c4,g6,Nc3,d5
+"Catalan, Closed",d4,Nf6,c4,e6,g3,d5
+Queen's Indian,d4,Nf6,c4,e6,Nf3,b6
+Nimzo-Indian,d4,Nf6,c4,e6,Nc3,Bb4
+King's Indian Defense,d4,Nf6,c4,g6,z,z
+King's Indian,d4,Nf6,c4,g6,Nc3,z
